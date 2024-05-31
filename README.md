@@ -1,7 +1,7 @@
-#University Database Project
+# University Database Project
 This project involves the creation of a comprehensive University database using MySQL. The database includes various entities such as colleges, departments, courses, faculty, sections, students, and enrollments. The database is populated with sample data, and several queries are provided to retrieve meaningful insights from the data.
 
-###Database Schema
+### Database Schema
 The database schema includes the following tables:
 
 College
@@ -12,7 +12,7 @@ Section
 Student
 Enrollment
 
-###SQL Script
+### SQL Script
 The SQL script provided includes the following steps:
 
 Creating the database schema
